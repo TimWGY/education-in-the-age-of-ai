@@ -31,23 +31,17 @@ How Far is Too Far? | The Age of A.I. (S1E1)
 
 Healed through A.I. | The Age of A.I. (S1E2)
 
-Tim Shaw / Speech Recognition for recognizing voices of people with ALS; 
+- Tim Shaw / Speech Recognition for recognizing voices of people with ALS;  Ice bucket challenge add funding to ALS research but also get people's attention to contribute voice data, leading to Google to start Euphonia project. Record voice sample to help people. (Michael Brenner - Harvard) (Dimitri Kanevsky)
 
-Ice bucket challenge add funding to ALS research but also get people's attention to contribute voice data, leading to Google to start Euphonia project. Record voice sample to help people. (Michael Brenner - Harvard) (Dimitri Kanevsky)
+- Santhi / Image Processing for predicting blindness; Detect diabetic complications in early stage to  (Jessica Mega - Verily at Alphabet) (Dr. Kim Lily Peng - Google) speed up diagnosis. Make intelligence cheap for places where doctors are scarce.
 
-Santhi / Image Processing for predicting blindness
-
-Detect diabetic complications in early stage to  (Jessica Mega - Verily at Alphabet) (Dr. Kim Lily Peng - Google) speed up diagnosis. Make intelligence cheap for places where doctors are scarce.
-
-Detecting mental disorders (Rana El Kaliouby - Affectiva)
-Bran Ferren (Applied Minds)
-DeepMind and Google AI on Speech Synthesis 
+- Detecting mental disorders (Rana El Kaliouby - Affectiva); Bran Ferren (Applied Minds); DeepMind and Google AI on Speech Synthesis 
 
 Using A.I. to build a better human | The Age of A.I. (S1E3)
 
-Bionic legs that uses a computer that decides actuates the motors to balance; Create muscle/machine joint that goes bi-directional, user can control the leg while feeling the movements in neural systems. Natural dynamics (neurally and mechanically linked) motions make senses to user's brain. (Hugh Herr - MIT) 
+- Bionic legs that uses a computer that decides actuates the motors to balance; Create muscle/machine joint that goes bi-directional, user can control the leg while feeling the movements in neural systems. Natural dynamics (neurally and mechanically linked) motions make senses to user's brain. (Hugh Herr - MIT) 
 
-Sport "not just replace what is lost but enhance we already have"; Create stronger, smarter, faster people. Embedded sensors and use real-time data for strategic decision making.  
+- Sport "not just replace what is lost but enhance we already have"; Create stronger, smarter, faster people. Embedded sensors and use real-time data for strategic decision making. One of the superpower of humans is intuition;  
 
 
 
