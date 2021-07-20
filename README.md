@@ -23,6 +23,7 @@ More specificly, education in the age of AI can mean several things:
 ### Chapter 1: 
 
 #### Inputs: 
+
 **How Far is Too Far? | The Age of A.I. (S1E1)**
 
 - Baby X -  Affective computing, building AI that can learn by themselves and relate with humans (collaboration is the greatest driving factor in human prosperity, collaboration between human and machine will lead us to new milestone)  (Mark Sagar - [SoulMachines](https://www.soulmachines.com/resources/research/baby-x/))
@@ -38,7 +39,7 @@ More specificly, education in the age of AI can mean several things:
 
 - Detecting mental disorders (Rana El Kaliouby - Affectiva); Bran Ferren (Applied Minds); DeepMind and Google AI on Speech Synthesis 
 
-Using A.I. to build a better human | The Age of A.I. (S1E3)
+**Using A.I. to build a better human | The Age of A.I. (S1E3)**
 
 - Bionic legs that uses a computer that decides actuates the motors to balance; Create muscle/machine joint that goes bi-directional, user can control the leg while feeling the movements in neural systems. Natural dynamics (neurally and mechanically linked) motions make senses to user's brain. (Hugh Herr - MIT) 
 
