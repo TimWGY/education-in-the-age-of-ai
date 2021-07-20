@@ -14,6 +14,15 @@ More specificly, education in the age of AI can mean several things:
 1. What is the role/purpose of humans in the age of AI?
 2. What do we need to master given our role/purpose?
 3. How should we learn given what we need to master?
-4. Transition roadmaps to education in the age of AI
-5. Immediate research and experimentation demands
-6. Equity and ethics considerations
+4. How do we create environments that facilitate learning?
+5. Transition roadmaps to education in the age of AI
+6. Immediate research and experimentation demands
+7. Equity and ethics considerations
+
+
+### Chapter 1: 
+
+#### Inputs: 
+How Far is Too Far? | The Age of A.I. (S1E1)
+- Baby X - affective computing, building AI that can learn by themselves and relate with humans (collaboration is the greatest driving factor in human prosperity, collaboration between human and machine will lead us to new milestone)
+- I am my Data - 
