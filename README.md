@@ -55,7 +55,7 @@ In the Age of AI | FRONTLINE
 
 - (Kai-Fu Lee - Sinovation) AI will replace 50% of jobs, including white-collar, blue-collar, and become symbiotic tools for other professions. White collars are easier to replace since they use purely quantitative analytical processes. Key milestones: steam engine, electricity, computer, AI. Two AI Superpowers; Sputinik moment when AlphaGo won; US China need to work together to make AI right, use it within the reasonable limit. 
 
-- (Jerry Kaplan) Half of the historical occupations such as telephone operators are gone nowadays, so AI displacement is nothing to worry. (push back from Kai-Fu Lee being history is trustable only when we see multiple repetitions but not once-in-a-blue-moon occurrences) 
+- (Jerry Kaplan) Half of the historical occupations such as telephone operators are gone nowadays, so AI displacement is nothing to worry. (push back from Kai-Fu Lee being history is trustable only when we see multiple repetitions but not once-in-a-blue-moon occurrences) Use AI to be more efficient while efficiency means doing the same job with fewer workers. "Automation is a substitution of labor with capital." (from Jerry Kaplan) How do we distribute the economic benefits of automation. AI excerbates the economic inequality. 
 
 - (Carl Frey and Michael Osborne - Oxford) 47% jobs could be automated. Historically, automation like this was the industrial revolution where wages of workers didn't grow for 9 decades and living standards went down. Robots replace jobs and don't pay tax, thus worsens the city facilities and living standards. No routine job left for the middle class to do. 
 
@@ -63,7 +63,6 @@ In the Age of AI | FRONTLINE
 
 - (Molly Kinder = New America) Women disproportationally work in marginalized occupations at risk of automation such as cashiers and clerical work (processing papers and transfering data). 
 
-- Use AI to be more efficient while efficiency means doing the same job with fewer workers. "Automation is a substitution of labor with capital." (from Jerry Kaplan) How do we distribute the economic benefits of automation. AI excerbates the economic inequality. 
 
 - (Pedro Domingos) The master algorithms; the algorithm adapts to you without you needing to explicity express anything. Companies who develop these algorithms don't have the same goals as us. 
 
