@@ -43,5 +43,34 @@ Using A.I. to build a better human | The Age of A.I. (S1E3)
 
 - Sport "not just replace what is lost but enhance we already have"; Create stronger, smarter, faster people. Embedded sensors and use real-time data for strategic decision making. One of the superpower of humans is intuition;  
 
+In the Age of AI | FRONTLINE
 
+- (Yoshua Bengio) Most of human knowledge cannot be expressed in words, what we verbally communicates is a tip of the iceberg while people learn most of the knowledge through interactions. Computer scientists are like physicists who proposed nuclear bombs in the WWII. Collective wisdom and social norms to handle the new superpower, high stakes. 
+ 
+- (Amy Webb - NYU Future Today Institue); AI has more computing power, remember more details, and can find and formalize patterns better; (Andrew Mcafee - MIT) Burst of social development scores - industrial revolution overcomes the limitation of our body, now AI revolution will breakthrough the limitation of our mind. Voice assistant not only recognizes you, but also create baseline and compare to see if your cadence changes, in the goal of micro-predicting your intimate, real-time statuses. "We don't have full agency, machine learns about us and use that to tell others who we are"
 
+- (Steve Viscelli) The Big Rig Automatic Trucking promises lower costs and displacing the drivers. How AI changes labor force.
+
+- (Nicholas Thompson - Wired) The magazine goes from a champion of technological change to an observer. Jony Ive, Jaron Lanier, Jeff Bezos. Sillicon Valley two thoughts: We simply trust technologies as the history before us shows that we are going to be fine; Others believe we will see an unprecedented labor force disruption, will people blame the creator of technologies?
+
+- (Kai-Fu Lee - Sinovation) AI will replace 50% of jobs, including white-collar, blue-collar, and become symbiotic tools for other professions. White collars are easier to replace since they use purely quantitative analytical processes. Key milestones: steam engine, electricity, computer, AI. Two AI Superpowers; Sputinik moment when AlphaGo won; US China need to work together to make AI right, use it within the reasonable limit. 
+
+- (Jerry Kaplan) Half of the historical occupations such as telephone operators are gone nowadays, so AI displacement is nothing to worry. (push back from Kai-Fu Lee being history is trustable only when we see multiple repetitions but not once-in-a-blue-moon occurrences) 
+
+- (Carl Frey and Michael Osborne - Oxford) 47% jobs could be automated. Historically, automation like this was the industrial revolution where wages of workers didn't grow for 9 decades and living standards went down. Robots replace jobs and don't pay tax, thus worsens the city facilities and living standards. No routine job left for the middle class to do. 
+
+- (Mike Hicks, Emily Wornell) Automation as a silent job killer, off-shoring only accounts for 20% while most jobs in US are lost to automation. Job loss is leading to first and second generation impacts on people.
+
+- (Molly Kinder = New America) Women disproportationally work in marginalized occupations at risk of automation such as cashiers and clerical work (processing papers and transfering data). 
+
+- Use AI to be more efficient while efficiency means doing the same job with fewer workers. "Automation is a substitution of labor with capital." (from Jerry Kaplan) How do we distribute the economic benefits of automation. AI excerbates the economic inequality. 
+
+- (Pedro Domingos) The master algorithms; the algorithm adapts to you without you needing to explicity express anything. Companies who develop these algorithms don't have the same goals as us. 
+
+- (Shoshana Zuboff - Harvard Business School) "In the age of smart machine" to "surveillance capitalism". Industrial capitalism claimed nature and work as land for sold and labor to use. Surveillance capitalism tries to "claim private human experience as a free source of materials, fabricated into predictions of human behaviors." Google don't do evil slogan from the beginning. Advertising distorts purity of internet and search engine. Much greater details (behaviorial surplus) than we thought we have given out. "1) We can use cues in online environments to change real-world behaviors, 2) we can do this in a way that bypass user's awareness" Cambridge Analytica - billionares like Robert Mercer can buy their voice in politics.
+
+- (Roger McNamee) Zucked; behaviorial prediction takes out randomness. Social contagion experiment 2010 election nudge people to vote. IoT things put surveillance into places we don't imagine before.
+
+- (Kate Crawford - NYU AI Now Institute) Cambridge Analytica uses decade-old, first-wave data science technology while today's AI technology can do much better and control how information travels. AI systems are hidden into systems like hiring and bail decisions, hard to detect, how to make them transparent; 
+
+- (Alistair Mactaggart) Privacy Legislation 1) right to know, 2) right to say no (don't sell my information), 3) opt-out any third-party usage, decision propagates through the network to prevent information spread
