@@ -23,13 +23,14 @@ More specificly, education in the age of AI can mean several things:
 ### Chapter 1: 
 
 #### Inputs: 
-How Far is Too Far? | The Age of A.I. (S1E1)
+**How Far is Too Far? | The Age of A.I. (S1E1)**
+
 - Baby X -  Affective computing, building AI that can learn by themselves and relate with humans (collaboration is the greatest driving factor in human prosperity, collaboration between human and machine will lead us to new milestone)  (Mark Sagar - [SoulMachines](https://www.soulmachines.com/resources/research/baby-x/))
 - I am my Data - (William Adams) Linking identity with data, having autonomy over one's own data; do people always want it to be accurate? a special time in the history that people need to determine what is real vs what is not (what does a digital replicant mean?);  
 - Modern cyborgs - our decisions in everyday life is influenced by recommendations from machines. (Gil Weinberg, Jason Barnes) Georgia Tech. Music improvisation robot to prosthetic arm for limb-difference musicians. Human body integrates with a robot prosthetic arm. 
 - Avatar - Hard to model personality, too many variations; Owner (Will Adams) think it should sound more robitic. Will there be a free will avatar.
 
-Healed through A.I. | The Age of A.I. (S1E2)
+**Healed through A.I. | The Age of A.I. (S1E2)**
 
 - Tim Shaw / Speech Recognition for recognizing voices of people with ALS;  Ice bucket challenge add funding to ALS research but also get people's attention to contribute voice data, leading to Google to start Euphonia project. Record voice sample to help people. (Michael Brenner - Harvard) (Dimitri Kanevsky)
 
@@ -43,7 +44,7 @@ Using A.I. to build a better human | The Age of A.I. (S1E3)
 
 - Sport "not just replace what is lost but enhance we already have"; Create stronger, smarter, faster people. Embedded sensors and use real-time data for strategic decision making. One of the superpower of humans is intuition;  
 
-In the Age of AI | FRONTLINE
+**In the Age of AI | FRONTLINE**
 
 - (Yoshua Bengio) Most of human knowledge cannot be expressed in words, what we verbally communicates is a tip of the iceberg while people learn most of the knowledge through interactions. Computer scientists are like physicists who proposed nuclear bombs in the WWII. Collective wisdom and social norms to handle the new superpower, high stakes. 
  
