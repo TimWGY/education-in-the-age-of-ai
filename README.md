@@ -22,7 +22,7 @@ More specificly, education in the age of AI can mean several things:
 
 ### Chapter 1: 
 
-#### Inputs: 
+#### Documentaries: 
 
 **How Far is Too Far? | The Age of A.I. (S1E1)**
 
@@ -77,7 +77,7 @@ More specificly, education in the age of AI can mean several things:
 - (Alistair Mactaggart) Privacy Legislation 1) right to know, 2) right to say no (don't sell my information), 3) opt-out any third-party usage, decision propagates through the network to prevent information spread
 
 
-#### Web Articles
+#### Web Articles:
 
 Education in the Age of AI
 https://arcade.stanford.edu/blogs/education-age-ai
