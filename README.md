@@ -75,3 +75,46 @@ More specificly, education in the age of AI can mean several things:
 - (Kate Crawford - NYU AI Now Institute) Cambridge Analytica uses decade-old, first-wave data science technology while today's AI technology can do much better and control how information travels. AI systems are hidden into systems like hiring and bail decisions, hard to detect, how to make them transparent; 
 
 - (Alistair Mactaggart) Privacy Legislation 1) right to know, 2) right to say no (don't sell my information), 3) opt-out any third-party usage, decision propagates through the network to prevent information spread
+
+
+#### Web Articles
+
+Education in the Age of AI
+https://arcade.stanford.edu/blogs/education-age-ai
+
+Education in the Age of Artificial Intelligence: How Will Technology Shape Learning? 
+https://www.researchgate.net/publication/324006126_Education_in_the_Age_of_Artificial_Intelligence_How_Will_Technology_Shape_Learning
+
+Why we need to rethink education in the artificial intelligence age
+https://www.brookings.edu/research/why-we-need-to-rethink-education-in-the-artificial-intelligence-age/
+
+‘Relearning’ education in the age of AI
+https://www.euractiv.com/section/economy-jobs/news/relearning-education-in-the-age-of-ai/
+
+Towards Inclusive Education in the Age of Artificial Intelligence: Perspectives, Challenges, and Opportunities
+https://link.springer.com/chapter/10.1007/978-981-13-8161-4_2
+
+How We Educate Our Children Will Change In The Age Of Artificial Intelligence
+https://www.forbes.com/sites/cognitiveworld/2020/02/28/how-we-educate-our-children-will-change-in-the-age-of-artificial-intelligence/?sh=452873863351
+
+Education in the age of artificial intelligence
+https://www.thehighereducationreview.com/news/education-in-the-age-of-artificial-intelligence-nid-938.html
+
+'Humans and societies in the age of artificial intelligence': Report
+https://ec.europa.eu/education/news/humans-societies-age-of-artificial-intelligence-report_en
+
+Ensuring Inclusive Secondary Education In An AI Age
+https://www.oxfordinsights.com/education-in-an-ai-age
+
+Higher Education in the AI Age
+https://www.researchgate.net/publication/333296294_Higher_Education_in_the_AI_Age
+
+Reinventing Education for the AI Age
+https://www.wise-qatar.org/special-focus/artificial-intelligence-education/
+
+AI Learning: What's the right age and skills required to start exploring Artificial Intelligence
+https://timesofindia.indiatimes.com/home/education/news/ai-learning-whats-the-right-age-and-skills-required-to-start-exploring-artificial-intelligence/articleshow/82081858.cms
+
+E-Relevance of Education and Culture in the Age of AI
+https://www.coe.int/en/web/freedom-expression/e-relevance-of-education-and-culture-in-the-age-of-ai
+
