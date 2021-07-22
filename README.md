@@ -79,8 +79,18 @@ More specificly, education in the age of AI can mean several things:
 
 #### Web Articles:
 
-Education in the Age of AI
-https://arcade.stanford.edu/blogs/education-age-ai
+Title: Education in the Age of AI
+Author: Kathryn Hume - FastForwardLabs, University of Calgary, Stanford Comparative Literature Alumna
+Link: https://arcade.stanford.edu/blogs/education-age-ai
+Core Argument: "the right educational training and curriculum for the AI-enabled job market of the 21st century should create generalists, not specialists"
+Skills: 
+- Flexibility and Adaptability (Andrew Ng' quote, "The half-life of knowledge is decreasing" learn all life not just till college) (universities and MOOCs should help laymen update skills and stay relevant)
+- Interdisciplinarity ("we mistake different ways of studying and asking questions for literally different things" leading to "prejudices against other tastes, interests, and preferences") (Stanford’s Thinking Matters and UChicago’s Social Thought - approach big questions multidisciplinarily)
+- Model Thinking (humans use heuristic mental techniques to handle uncertainty (more in behaviorial econ and the book Undoing Project)) (but we need better statistical intuitions to understand how AI models model the world and impact our life) (important part of mandatory education)
+- Synthetic and Analogical Reasoning ("AI systems aren’t analogical or synthetic reasoners") (cannot make connections on an abstracted level) (coursework in arts and humanities helps [The Utility of the Humanities in the 21st Century](https://quamproxime.com/2017/02/20/the-utility-of-the-humanities-in-the-21st-century/))
+- Framing Qualitative Ideas as Quantitative Problems (speak human and speak machine, prioritize and estimate workload, render the messy real-world tractable for computation) (teach through case studies, university co-op training)
+Additional context: people in society have evolved from generalists (hunter-gatherers) into specialists, who are more susceptible to AI replacement because AI excels at specialized tasks and such tasks only (for now, general AI attempts made at [OpenAI Universe](https://blog.openai.com/universe/) and [DeepMind Lab](https://deepmind.com/blog/open-sourcing-deepmind-lab/)). [a-history-and-future-of-the-rise-of-the-robots](https://hackernoon.com/a-history-and-future-of-the-rise-of-the-robots-cce0fe222a71). [five-distractions-in-thinking-about-ai](https://quamproxime.com/2017/03/25/five-distractions-in-thinking-about-ai/). 
+Tim's comments: love the generalist advocacy (biased as I am more a generalist person) heard many complaining about being "a cog in the machine". First point on flexibility and adaptability is essentially about life-long learning, a topic needs more research. THe second point and fourth point are close and they reminds me of Project Base Learning PBL. Fifth and third points sound like formulation and interpretation, which are the I/O steps between business and tech, which needs interdisplinary knowledge. Overall 
 
 Education in the Age of Artificial Intelligence: How Will Technology Shape Learning? 
 https://www.researchgate.net/publication/324006126_Education_in_the_Age_of_Artificial_Intelligence_How_Will_Technology_Shape_Learning
