@@ -83,9 +83,11 @@ More specificly, education in the age of AI can mean several things:
 
 Title: Education in the Age of AI
 
+Link: https://arcade.stanford.edu/blogs/education-age-ai
+
 Author: Kathryn Hume - FastForwardLabs, University of Calgary, Stanford Comparative Literature Alumna
 
-Link: https://arcade.stanford.edu/blogs/education-age-ai
+Publish Time: Not Found
 
 Core Argument: "the right educational training and curriculum for the AI-enabled job market of the 21st century should create generalists, not specialists"
 
