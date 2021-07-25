@@ -103,6 +103,40 @@ Tim's comments: love the generalist advocacy (biased as I am more a generalist p
 
 ---
 
+Title: The Utility of the Humanities in the 21st Century
+
+Link: https://quamproxime.com/2017/02/20/the-utility-of-the-humanities-in-the-21st-century/
+
+Author: Kathryn Hume - FastForwardLabs, University of Calgary, Stanford Comparative Literature Alumna
+
+Publish Time: 2017 Feb
+
+Main Argument: "to shift the dialogue on the value of the humanities from utility in cultivating empathy and emotional character to real economic and social impact"
+
+Topics:
+- Technology and White-Collar Professions
+* "This value lies in the design methodologies required to transform what were once thought processes into statistical techniques, to crystallize probabilistic outputs into intuitive features for non-technical users. It lies in creating the training data required to make a friendly chat bot."
+- Autonomy and Mores in the Gig Economy
+* "Our globalized, gig economy requires a self-reliant morality and autonomy that has no choice but to be cultivated apart from the workplace. And the seat of that cultivation would be some training in philosophy, ethics, and humanities. Otherwise corporate values will be reduced to the cold rationality of some algorithm measuring OKRs and KPIs."
+- Ethics and Emerging Technologies
+* "Ethics is moving from a niche interest of progressive technologists to a core component of large corporate technology strategy." "Doing this well requires both people who are motivated by critical thinking and people who are actually interested in machine learning technologies."
+
+---
+
+Title: Five Distractions in Thinking about AI
+
+Link: https://quamproxime.com/2017/03/25/five-distractions-in-thinking-about-ai/
+
+Author: Kathryn Hume - FastForwardLabs, University of Calgary, Stanford Comparative Literature Alumna
+
+Publish Time: 2017 March
+
+Main Argument: 
+
+
+
+---
+
 Education in the Age of Artificial Intelligence: How Will Technology Shape Learning? 
 https://www.researchgate.net/publication/324006126_Education_in_the_Age_of_Artificial_Intelligence_How_Will_Technology_Shape_Learning
 
